@@ -16,7 +16,7 @@
 lang: zh-CN
 title: mayidan personal website
 email:
-description:"mayidan personal website"
+description: "mayidan personal website"
 baseurl: "/xiaoma_qm" # the optional subpath of your site, e.g. "/blog"
 url: "https://xiaoma_qm.gitee.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
