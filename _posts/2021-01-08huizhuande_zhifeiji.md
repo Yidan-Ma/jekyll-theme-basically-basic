@@ -10,8 +10,6 @@ tags:
 
 要如何让自己的纸飞机转动起来呢
 
-<!--more-->
-
 ## 静态纸飞机
 
 以下是我在[ **iconfont** ](https://www.iconfont.cn/home/index?spm=a313x.7781069.1998910419.2)上找到的纸飞机
