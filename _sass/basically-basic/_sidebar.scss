@@ -42,7 +42,7 @@
     /* line hover effect */
     a {
       position: relative;
-      color: #2A5062;
+      color: $base-color;
 
       &::before {
         display: block;
