@@ -36,7 +36,7 @@ categories:
 <br>
 对比下来很明显，第二个一个更加具有可视性
 <br>
-这是我在[ **webaim** ]([ **iconfont** ](https://webaim.org/resources/contrastchecker))截下来的图
+这是我在[ **webaim** ](https://webaim.org/resources/contrastchecker)截下来的图
 <br>
 ## 统一的视觉效果
 其实在版面布局设计好和图片文字设置好了的情况下，基本就会有初步的统一性，但是统一性还是得色调统一
