@@ -25,11 +25,11 @@ position: relative;
 animation:deer 4s infinite;}			
 
 @keyframes deer
-{0%   {left:0px; top:0px; width:50px;}
-25%  {left:300px; top:0px; width:100px;}
-50%  {left:300px; top:300px; width:120px;}
-75%  {left:0px; top:300px; width:300px;}
-100% {left:0px; top:0px; width:50px;}}
+{0%   {width:50px; left:0px; top:0px;}
+25%  {width:100px; left:300px; top:0px;}
+50%  {width:120px; left:300px; top:300px;}
+75%  {width:300px; left:0px; top:300px;}
+100% {width:50px; left:0px; top:0px;}
 </style>
 
 <div class="bigredenvelopes">
