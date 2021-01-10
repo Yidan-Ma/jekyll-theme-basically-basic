@@ -1,5 +1,5 @@
 ---
-title: 响应式设计是为什么而存在的？
+title: 都听过响应式设计吧，那就来看看！
 date: 2021-01-09
 excerpt_separator: "<!--more-->"
 categories:
