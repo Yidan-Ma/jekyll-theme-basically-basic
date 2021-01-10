@@ -18,18 +18,25 @@ categories:
 <br>
 1.图片和文字大小是否在整个页面上达到平衡的效果
 <br>
-2.图片和文字能否有合适的间距图片和文字都是要传达给阅读者的，所以有一个好的间距对浏览者来说是非常有必要的
-<br> 
-3.文字颜色的选择是否有高可视性
-<br>
-![](/assets/images/pinmiansheji/duibi_buhao.jpg)
-![](/assets/images/pinmiansheji/duibi_hao.jpg)
-<br>
-对比下来很明显哪一个更加具有可视性，这是在[ **webaim** ]([ **iconfont** ](https://www.iconfont.cn/home/index?spm=a313x.7781069.1998910419.2)
-<br>
-4.文字在页面中的字数是否合适,比如知乎官网的设计，百分之九十全是文字，唯一出现的图经常可能是广告，让字恐人士第一眼看到就想避而远之
-<br>
-![](/assets/images/pinmiansheji/zhihu_jiemian.jpg)
 
+2.图片和文字能否有合适的间距
+<br>
+图片和文字都是要传达给阅读者的，所以有一个好的间距对浏览者来说是非常有必要的
+<br> 
+
+3.文字在页面中的字数是否合适
+<br>
+如果你进到了一个网站，引入眼帘的是密密麻麻的文字，你一定会有关闭这个网站的冲动,所以文字的数量一定要配合之网页的大小、图片的数量，还有要简短、精确内容，突出主题，不要废话
+<br>
+
+4.文字颜色的选择是否有高可视性
+<br>
+![](/assets/images/wangzhansheji_error.png)
+![](/assets/images/wangzhansheji_correct.png)
+<br>
+对比下来很明显，第二个一个更加具有可视性
+<br>
+这是我在[ **webaim** ]([ **iconfont** ](https://www.iconfont.cn/home/index?spm=a313x.7781069.1998910419.2))截下来的图
+<br>
 ## 统一的视觉效果
 其实在版面布局设计好和图片文字设置好了的情况下，基本就会有初步的统一性，但是统一性还是得色调统一
