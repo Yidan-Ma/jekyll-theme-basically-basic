@@ -1,5 +1,5 @@
 ---
-title: 注意了！大的红包来了
+title: 注意了！大红包来了
 excerpt_separator: "<!--more-->"
 categories:
      - SVG笔记
@@ -18,6 +18,7 @@ categories:
 
 ### 变大的钱包来了
  添加了@keyframe，利用left和top使红包转动，再用width控制大小，实现两种动画效果
+
 <style>
 .bigredenvelopes svg{
 position: relative;
