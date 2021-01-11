@@ -1,5 +1,5 @@
 ---
-title: jekyll搭建个人个人网站，你奔溃了吗
+title: jekyll搭建个人网站，你崩溃了吗？
 date: 2021-01-08
 excerpt_separator: "<!--more-->"
 categories:
@@ -43,3 +43,8 @@ categories:
 1.原因：在一段时间内过多访问此网站，被防火墙拒绝访问了
 
 2.解决方法：找到浏览器的设置，点击清除浏览数据，再把浏览器关掉或者电脑重启就好啦
+
+## 在github desktop push的时候弹出publish repository
+1.找了很久没找到原因
+
+2.在desktop把仓库移除再重新导入
