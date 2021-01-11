@@ -40,7 +40,7 @@ categories:
 
 3.定义速度变化速度变化如ease、linear、 ease-in、ease-out、ease-in-out或者cubic-bezier，具体使用可见[ **runoob** ](https://www.runoob.com/cssref/css3-pr-transition-timing-function.html)
 
-4.语法：transition-timing-function: linear|ease|ease-in|ease-out|ease-in-out|cubic-bezier(n,n,n,n);比如transition-timing-function: ease; 
+4.语法：比如transition-timing-function: ease; 
 
 5.若不使用预设好的，要用cubic-bezier，可参考[ **缓动函数速查表** ](http://www.xuanfengge.com/easeing/easeing/)
 
