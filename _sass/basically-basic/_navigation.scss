@@ -6,8 +6,8 @@
   @include list-unstyled;
 
   a {
-    color: inherit;
-    text-decoration: none;
+    color: #ffffff;
+    
   }
 }
 
@@ -54,7 +54,7 @@
     padding: 1em;
     border-radius: $border-radius;
     background-color: $accent-color;
-    color: #fff;
+    color: #ffffff;
     font-weight: bold;
     text-align: center;
     text-decoration: none;
