@@ -1,6 +1,7 @@
 ---
 title: "关于我"
 layout: about
+image: assets/images/banner_guanyuwo.png
 ---
 ## 个人简介
 - 马逸丹，女，广东汕头
