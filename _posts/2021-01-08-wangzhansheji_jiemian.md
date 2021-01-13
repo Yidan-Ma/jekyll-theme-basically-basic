@@ -31,8 +31,8 @@ categories:
 
 4.文字颜色的选择是否有高可视性
 <br>
-![](/assets/images/wangzhansheji_error.png)
-![](/assets/images/wangzhansheji_correct.png)
+![](assets/images/wangzhansheji_error.png)
+![](assets/images/wangzhansheji_correct.png)
 <br>
 对比下来很明显，第二个一个更加具有可视性
 <br>
