@@ -3,8 +3,6 @@ title: 注意！警示三角开始在变化了！
 excerpt_separator: "<!--more-->"
 categories:
      - SVG笔记
-tags:
-	-svg
 
 ---
 
