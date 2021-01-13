@@ -30,10 +30,11 @@ categories:
 <br>
 
 4.文字颜色的选择是否有高可视性
-<br>
-![](assets/images/wangzhansheji_error.png)
-![](assets/images/wangzhansheji_correct.png)
-<br>
+
+![](/assets/images/wangzhansheji_error.png)
+
+![](/assets/images/wangzhansheji_correct.png)
+
 对比下来很明显，第二个一个更加具有可视性
 <br>
 这是我在[ **webaim** ](https://webaim.org/resources/contrastchecker)截下来的图
