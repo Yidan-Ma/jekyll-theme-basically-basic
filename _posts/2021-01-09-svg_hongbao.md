@@ -3,6 +3,8 @@ title: 注意了！大红包来了
 excerpt_separator: "<!--more-->"
 categories:
      - SVG笔记
+tags:
+	-svg
 
 ---
 

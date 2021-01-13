@@ -3,7 +3,8 @@ title: 一只会转的纸飞机！
 excerpt_separator: "<!--more-->"
 categories:
      - SVG笔记
-
+tags:
+	-svg
 ---
 
 要如何让自己的纸飞机转动起来呢?
